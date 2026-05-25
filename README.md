@@ -151,6 +151,10 @@ As part of the internship, I also:
 
 # Certificate of Completion
 
-Certificate of completion awarded for successfully completing the 10-week Virtual Global Apprenticeship in Artificial Intelligence with FlyZy.
+# Certificate
+
+Certificate awarded for successfully completing the 10-week Virtual Global Apprenticeship in Artificial Intelligence with FlyZy and Belong Education.
+
+[View FlyZy Certificate](FlyZy Certificate.pdf)
 
 ---
