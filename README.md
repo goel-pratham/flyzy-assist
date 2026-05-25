@@ -1,10 +1,10 @@
-FlyZy Assist – Travel Service Chatbot
+##FlyZy Assist – Travel Service Chatbot
 
 Short Description
 
 A beginner-friendly Python travel chatbot developed during the Belong x FlyZy Virtual Global Apprenticeship.
 
-Features
+##Features
 
 * Hotel check-in/check-out support
 * Cab booking responses
@@ -13,18 +13,14 @@ Features
 * Simple intent recognition
 * Basic conversational memory
 
-Technologies Used
+##Technologies Used
 
 * Python
 * Dictionaries
 * String processing
 * Randomized responses
 
-What I Learned
-
-This section matters a lot.
-
-Write things like:
+##What I Learned
 
 * Basic NLP concepts
 * Intent matching
@@ -33,11 +29,7 @@ Write things like:
 * User interaction flow
 * Presenting technical ideas through an elevator pitch
 
-Future Improvements
-
-This is critical because it shows self-awareness.
-
-Add:
+##Future Improvements
 
 * Replace keyword matching with NLP models
 * Add GUI using Tkinter or Streamlit
